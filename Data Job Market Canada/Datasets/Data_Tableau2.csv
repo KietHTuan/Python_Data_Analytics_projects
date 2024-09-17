@@ -1,0 +1,690 @@
+Industry,Skills_grouped
+Hospitals and Health Care,Analytical Thinking
+Hospitals and Health Care,Data Analysis
+Hospitals and Health Care,Data Analysis
+Hospitals and Health Care,Data Science
+Hospitals and Health Care,Data Visualization
+Hospitals and Health Care,Analytical Thinking
+Hospitals and Health Care,R
+Hospitals and Health Care,Data Visualization
+Hospitals and Health Care, Program Evaluation
+Financial Services,Analytical Thinking
+Financial Services,Data Visualization
+Financial Services,Data Visualization
+Financial Services,SQL
+Financial Services,Data Analysis
+Financial Services,Data Analysis
+Financial Services,R
+Financial Services,Analytical Thinking
+Financial Services, Interpersonal Skills 
+Financial Services,Statistics
+Information Technology & Services,Analytical Thinking
+Information Technology & Services,Data Analysis
+Information Technology & Services,Data Analysis
+Information Technology & Services,Data Engineering
+Information Technology & Services,Data Science
+Information Technology & Services,Data Visualization
+Information Technology & Services,Analytical Thinking
+Information Technology & Services,Python
+Information Technology & Services,SQL
+Information Technology & Services,Data Visualization
+Advertising Services,Data Analysis
+Advertising Services,Data Analysis
+Advertising Services,Data Visualization
+Advertising Services,Analytical Thinking
+Advertising Services,Python
+Advertising Services,SQL
+Advertising Services,Ad hoc analysis
+Advertising Services,AWS
+Advertising Services,AWS
+IT Services and IT Consulting,Data Analysis
+IT Services and IT Consulting,Data Analysis
+IT Services and IT Consulting,Data Visualization
+IT Services and IT Consulting,Python
+IT Services and IT Consulting,SQL
+IT Services and IT Consulting, Data Flow
+Security and Investigations,Azure
+Security and Investigations,Data Analysis
+Security and Investigations,Data Analysis
+Security and Investigations,Data modeling
+Security and Investigations,Data Science
+Security and Investigations, Data Warehousing 
+Security and Investigations,ETL
+Security and Investigations,Python
+Security and Investigations,SQL
+Security and Investigations,Data Visualization
+Staffing and Recruiting,Analytical Thinking
+Staffing and Recruiting,Data Analysis
+Staffing and Recruiting,Data Analysis
+Staffing and Recruiting,Data Engineering
+Staffing and Recruiting,Data Science
+Staffing and Recruiting,Data Visualization
+Staffing and Recruiting,Analytical Thinking
+Staffing and Recruiting,Python
+Staffing and Recruiting,SQL
+Staffing and Recruiting,Data Visualization
+IT Services and IT Consulting,Analytical Thinking
+IT Services and IT Consulting,Data Analysis
+IT Services and IT Consulting,Power BI
+IT Services and IT Consulting,Data Engineering
+IT Services and IT Consulting,Data Science
+IT Services and IT Consulting,Data Visualization
+IT Services and IT Consulting,Analytical Thinking
+IT Services and IT Consulting,Python
+IT Services and IT Consulting,SQL
+IT Services and IT Consulting,Data Visualization
+Software Development,Data Science
+Software Development,Communication
+Software Development,Data Visualization
+Software Development,Data Analysis
+Software Development,Data Analysis
+Software Development, Data Warehousing 
+Software Development,Database
+Software Development, Business Intelligence Tools 
+Software Development,Data modeling
+Software Development,Database
+Financial Services,Data Management 
+Financial Services,Data modeling
+Financial Services,Data Engineering
+Financial Services,Analytical Thinking
+Financial Services,Communication
+Financial Services,SAS
+Financial Services,Data Analysis
+Financial Services,Statistics
+Financial Services,Database
+Retail,Analytical Thinking
+Retail,Data Analysis
+Retail,Data Analysis
+Retail,Data Engineering
+Retail,Data Science
+Retail,Data Visualization
+Retail,Analytical Thinking
+Retail,Python
+Retail,SQL
+Retail,Data Visualization
+Insurance,Data Analysis
+Insurance,Power BI
+Insurance,SQL
+Insurance,SQL
+Insurance,Azure
+Insurance, Computer Information Systems 
+Insurance,Database
+Insurance, Microsoft Fabric 
+Insurance,SQL
+Insurance, Software Development
+Entertainment Providers,Data Analysis
+Entertainment Providers,Data Analysis
+Entertainment Providers, Data Cleaning 
+Entertainment Providers,Data Visualization
+Entertainment Providers, Business Process 
+Entertainment Providers, Data Aggregation 
+Entertainment Providers, Data Collection 
+Entertainment Providers, Data Governance 
+Entertainment Providers, Game Mechanics 
+Entertainment Providers,Statistics
+Retail,Data Cleaning 
+Retail,SQL
+Retail,Python
+Retail, Data Migration 
+Retail, Data Warehousing 
+Retail,Power BI
+Retail,SQL
+Retail,Database
+Retail,Azure
+Retail,Azure
+Retail, Microsoft Dynamics 365 
+Retail, Microsoft Fabric
+Investment Banking,Analytical Thinking
+Investment Banking,Communication
+Investment Banking,Data Analysis
+Investment Banking,Analytical Thinking
+Investment Banking, Client Relations 
+Investment Banking,Communication
+Investment Banking,Communication
+Investment Banking,Communication
+Investment Banking, Resolving Issues 
+Investment Banking, Statutory 
+Investment Banking,SQL
+Investment Banking,Python
+Business Consulting and Services,Analytical Thinking
+Business Consulting and Services,Communication
+Business Consulting and Services,Data Analysis
+Business Consulting and Services,Data Analysis
+Business Consulting and Services,Data Science
+Business Consulting and Services,Data Visualization
+Business Consulting and Services, Computer Science 
+Business Consulting and Services,SQL
+Business Consulting and Services,Python
+Business Consulting and Services, Open Mind 
+Business Consulting and Services, Quantitative Finance 
+Business Consulting and Services, Requirements Gathering
+Business Consulting and Services,Data Analysis
+Business Consulting and Services,SQL
+Business Consulting and Services,SQL
+Business Consulting and Services,Statistics
+Business Consulting and Services,Tableau
+Business Consulting and Services, Business-To-Business (B2B) 
+Business Consulting and Services, Data Extraction 
+Business Consulting and Services, Decision Analysis 
+Business Consulting and Services,Data Analysis
+Business Consulting and Services, Paid Media Strategy 
+Business Consulting and Services,Statistics
+Business Consulting and Services,Python
+Human Resources,Analytical Thinking
+Human Resources, Consulting 
+Human Resources, Problem-Solving Skills 
+Human Resources,Communication
+Human Resources, Complex Topics Articulation 
+Human Resources,Database
+Human Resources, Report Development Concepts 
+Human Resources,SQL
+Human Resources,Python
+Human Resources,Excel
+"Technology, Information and Internet",Data Analysis
+"Technology, Information and Internet",Communication
+"Technology, Information and Internet",Data Analysis
+"Technology, Information and Internet",Data Analysis
+"Technology, Information and Internet",Data Engineering
+"Technology, Information and Internet",Data Science
+"Technology, Information and Internet",Analytical Thinking
+"Technology, Information and Internet",Data Visualization
+"Technology, Information and Internet",Data pipeline
+"Technology, Information and Internet", Datasets 
+"Technology, Information and Internet",Python
+"Technology, Information and Internet",SQL
+"Technology, Information and Internet",Statistics
+Banking,Data Analysis
+Banking,Data Analysis
+Banking,Data Engineering
+Banking,Data Visualization
+Banking,Statistics
+Banking,Data Visualization
+Banking, Coaching 
+Banking, Code Review 
+Banking,R
+Banking, Experimental Design 
+Banking,SQL
+Banking, Cloud 
+Banking, Data Mining 
+Banking,Python
+Banking,Excel
+Retail,Data Analysis
+Retail, Data Integrity 
+Retail,Data Science
+Retail, Data Warehousing 
+Retail,Database
+Retail,ETL
+Retail,Data modeling
+Retail, Data Preparation 
+Retail, Microstrategy 
+Retail, Technical Specs 
+Retail,SQL
+Retail,Python
+Retail,Excel
+Retail,SQL
+Retail, Supply Chain
+"Technology, Information and Internet",Data Analysis
+"Technology, Information and Internet",Communication
+"Technology, Information and Internet", Reporting & Analysis 
+"Technology, Information and Internet",Ad hoc analysis
+"Technology, Information and Internet", Attention To Detail 
+"Technology, Information and Internet", Business Insights 
+"Technology, Information and Internet", Funnel Optimization 
+"Technology, Information and Internet",Data Analysis
+"Technology, Information and Internet", Marketing Reporting 
+"Technology, Information and Internet", Success Stories 
+"Technology, Information and Internet",SQL
+"Technology, Information and Internet",Excel
+"Technology, Information and Internet", Salesforce
+Information Services,Python
+Information Services, Reporting & Analysis 
+Information Services, Nde 
+Information Services, Nondestructive Testing (Ndt) 
+Information Services, Oil And Gas 
+Information Services,Data pipeline
+Information Services,Data pipeline
+Information Services, Well Integrity 
+Information Services, Well Logging
+Banking,Data Analysis
+Banking,Data Analysis
+Banking, Data Quality 
+Banking,Data Science
+Banking,Data Visualization
+Banking, Business Case Development 
+Banking, Business Case Preparation 
+Banking, Business Insights 
+Banking, Glossaries 
+Banking, Personal Branding 
+Banking,SQL
+Banking, R 
+Banking,Python
+Banking,Analytical Thinking
+Banking,Azure
+Banking,AWS
+Banking,Tableau
+Professional Services,Data Entry 
+Professional Services, Airline Ticketing 
+Professional Services, Analysis Reports 
+Professional Services, Business Requirements 
+Professional Services,Excel
+Professional Services, Investigator Brochures 
+Professional Services,Excel
+Professional Services, Oracle Cloud 
+Professional Services, Quality Analysis 
+Professional Services, Ratio Analysis 
+Professional Services,SQL
+Professional Services,Excel
+Hospitals and Health Care,Analytical Thinking
+Hospitals and Health Care,Communication
+Hospitals and Health Care,Analytical Thinking
+Hospitals and Health Care,Data Analysis
+Hospitals and Health Care,Data Analysis
+Hospitals and Health Care, Data Integrity 
+Hospitals and Health Care, Data Quality 
+Hospitals and Health Care,Analytical Thinking
+Hospitals and Health Care, Presentation Skills 
+Hospitals and Health Care,Communication
+Hospitals and Health Care, Pcr 
+Hospitals and Health Care, Ppr
+Music,Analytical Thinking
+Music,Data Analysis
+Music,Communication
+Music,Data Analysis
+Music,Data Analysis
+Music, Data Quality 
+Music,Data modeling
+Music, Datasets 
+Music, Reporting Requirements 
+Music,Python
+Music, Pyspark 
+Music,SQL
+Music,Tableau
+Music,Power BI
+Music, Snowflake
+Financial Services,Data Quality 
+Financial Services,Database
+Financial Services,Excel
+Financial Services,SQL
+Financial Services,SQL
+Financial Services, Reference Data 
+Financial Services, Reporting Requirements 
+Financial Services, Static Data 
+Financial Services, System Testing 
+Financial Services, Trade Capture 
+Financial Services,SQL
+Financial Services,Python
+Financial Services,Excel
+Financial Services,Communication
+Telecommunications,Data Analysis
+Telecommunications,Communication
+Telecommunications,Data Analysis
+Telecommunications,Data Science
+Telecommunications,Analytical Thinking
+Telecommunications,Communication
+Telecommunications, Build Strong Relationships 
+Telecommunications, Business Requirements 
+Telecommunications, Relationship Building 
+Telecommunications, Technical Proficiency 
+Telecommunications,SQL
+Telecommunications,Python
+Telecommunications,Excel
+Telecommunications, R 
+Telecommunications,Power BI
+IT Services and IT Consulting,Dashboard Metrics 
+IT Services and IT Consulting,Data Visualization
+IT Services and IT Consulting,Python
+IT Services and IT Consulting,SQL
+IT Services and IT Consulting, Business Metrics 
+IT Services and IT Consulting,Data modeling
+IT Services and IT Consulting,Data pipeline
+IT Services and IT Consulting, Data Reporting 
+IT Services and IT Consulting,Power BI
+IT Services and IT Consulting,Analytical Thinking
+IT Services and IT Consulting,Statistics
+Consumer Services,Analytical Thinking
+Consumer Services,Data Analysis
+Consumer Services,Data Visualization
+Consumer Services,Data Analysis
+Consumer Services,Data Science
+Consumer Services,Data Visualization
+Consumer Services,Statistics
+Consumer Services,Statistics
+Consumer Services, Computer Science 
+Consumer Services, Cross-Team Collaboration 
+Consumer Services,SQL
+Consumer Services,Excel
+Consumer Services,Python
+Consumer Services,Tableau
+IT Services and IT Consulting,Power BI
+IT Services and IT Consulting,Tableau
+IT Services and IT Consulting, Business Rules 
+IT Services and IT Consulting, Catalogue Design 
+IT Services and IT Consulting, Collibra Platform 
+IT Services and IT Consulting, Data Governance 
+IT Services and IT Consulting, Data Mapping 
+IT Services and IT Consulting, Google Cloud Platform (Gcp) 
+IT Services and IT Consulting, Ibm Infosphere 
+IT Services and IT Consulting, Information Governance 
+IT Services and IT Consulting, Metadata 
+IT Services and IT Consulting,Azure
+IT Services and IT Consulting, Treasury Management 
+IT Services and IT Consulting,Database
+IT Services and IT Consulting,Python
+Banking,Data Analysis
+Banking,Data Visualization
+Banking,Data Analysis
+Banking,Data Analysis
+Banking, Data Management 
+Banking,Data Visualization
+Banking,Data Visualization
+Banking, Business Requirements 
+Banking, Dashboard Building 
+Banking, Executive Reporting 
+Banking,SQL
+Banking,SQL
+Banking,Power BI
+Banking,Excel
+Banking,Tableau
+IT Services and IT Consulting,Nan
+Retail,Data Analysis
+Retail,Communication
+Retail,Analytical Thinking
+Retail,Data Analysis
+Retail, Key Performance Indicators 
+Retail, Data Wrangling 
+Retail, Interpersonal Skills 
+Retail, Multivariate Testing 
+Retail, Stem 
+Retail, Thinking Skills 
+Retail,SQL
+Retail,Python
+Retail,Statistics
+Retail, Machine Learning 
+Retail,Power BI
+Banking,Communication
+Banking,Analytical Thinking
+Banking,Data Analysis
+Banking,Data Analysis
+Banking,Analytical Thinking
+Banking, Business Process Design 
+Banking, Business Requirements 
+Banking, Data Architecture 
+Banking, Interpersonal Relationships 
+Banking,Data modeling
+Banking,SQL
+Banking,Python
+Banking,Data modeling
+Staffing and Recruiting,Data Analysis
+Staffing and Recruiting, Data Quality 
+Staffing and Recruiting,Data Science
+Staffing and Recruiting,Database
+Staffing and Recruiting,Analytical Thinking
+Staffing and Recruiting,Analytical Thinking
+Staffing and Recruiting, Data Governance 
+Staffing and Recruiting,Data modeling
+Staffing and Recruiting,SQL
+Staffing and Recruiting, User Requirements 
+Staffing and Recruiting,SQL
+Staffing and Recruiting,Python
+Staffing and Recruiting,Data modeling
+Financial Services,Analytical Thinking
+Financial Services,Communication
+Financial Services,Data Analysis
+Financial Services, Data Quality 
+Financial Services,Data Visualization
+Financial Services,Analytical Thinking
+Financial Services, Continuous Process Improvement 
+Financial Services, Derivatives 
+Financial Services, Fixed-Income Investing 
+Financial Services, Root Cause 
+Financial Services,Ad hoc analysis
+Financial Services,Communication
+Software Development,Data Analysis
+Software Development, Business Intelligence Tools 
+Software Development,Communication
+Software Development,Data Analysis
+Software Development,Data modeling
+Software Development,Data Science
+Software Development,Data Visualization
+Software Development, Data Warehousing 
+Software Development,Database
+Software Development,Database
+Software Development,SQL
+Software Development,Tableau
+Software Development,Power BI
+Software Development,Data Visualization
+Software Development,Data Analysis
+Software Development,Data Visualization
+Software Development,Python
+Software Development, Looker (Software) 
+Software Development, Saas 
+Software Development,AWS
+Software Development,SQL
+Software Development,Tableau
+Software Development,Power BI
+Software Development, Machine Learning
+Gambling Facilities and Casinos,Communication
+Gambling Facilities and Casinos,Data Analysis
+Gambling Facilities and Casinos,Data Science
+Gambling Facilities and Casinos,Excel
+Gambling Facilities and Casinos, Reporting & Analysis 
+Gambling Facilities and Casinos, Business Insights 
+Gambling Facilities and Casinos, Data Manipulation 
+Gambling Facilities and Casinos, Data-Driven Decision Making 
+Gambling Facilities and Casinos, Datasets 
+Gambling Facilities and Casinos,SQL
+Gambling Facilities and Casinos, R 
+Gambling Facilities and Casinos,Excel
+Gambling Facilities and Casinos,Statistics
+Financial Services,Data Visualization
+Financial Services,Data Analysis
+Financial Services, Data Management 
+Financial Services,Data modeling
+Financial Services,Data Science
+Financial Services,Data Visualization
+Financial Services,Database
+Financial Services,ETL
+Financial Services,Analytical Thinking
+Financial Services,Data Visualization
+Accounting,Communication
+Accounting,Data Analysis
+Accounting,Excel
+Accounting, Microsoft Office 
+Accounting,Analytical Thinking
+Accounting, Performance Reporting 
+Accounting, Systems Analysis 
+Accounting, Trend Analysis 
+Accounting, Variance Analysis 
+Accounting,SQL
+Accounting, Crm 
+Accounting, Erp
+Hospitals and Health Care,Data Analysis
+Hospitals and Health Care,Data Analysis
+Hospitals and Health Care,Data Analysis
+Hospitals and Health Care,Database
+Hospitals and Health Care, Ibm Spss 
+Hospitals and Health Care,Database
+Hospitals and Health Care,SAS
+Hospitals and Health Care,Tableau
+Hospitals and Health Care,Excel
+Hospitals and Health Care,Power BI
+Hospitals and Health Care, Spss 
+Hospitals and Health Care,Communication
+Government Administration,Data Analysis
+Government Administration,Data Analysis
+Government Administration,Data Science
+Government Administration,SAS
+Government Administration,Statistics
+Government Administration,Statistics
+Government Administration,Analytical Thinking
+Government Administration, Data Manipulation 
+Government Administration, R 
+Government Administration,Python
+Government Administration,Power BI
+Financial Services,Analytical Thinking
+Financial Services,Data Analysis
+Financial Services,Data Analysis
+Financial Services, Data Quality 
+Financial Services,Excel
+Financial Services,Analytical Thinking
+Financial Services,SQL
+Financial Services,Tableau
+Financial Services,Power BI
+Financial Services,Python
+Financial Services,AWS
+Financial Services,Azure
+Financial Services,Data Analysis
+Financial Services,Analytical Thinking
+Financial Services,Analytical Thinking
+Staffing and Recruiting,Communication
+Staffing and Recruiting,Data Analysis
+Staffing and Recruiting,Data Analysis
+Staffing and Recruiting, Data Quality 
+Staffing and Recruiting,Database
+Staffing and Recruiting,Analytical Thinking
+Staffing and Recruiting, Control Software 
+Staffing and Recruiting, Datasets 
+Staffing and Recruiting, Learning Management 
+Staffing and Recruiting, Learning Management Systems 
+Staffing and Recruiting,Excel
+Staffing and Recruiting,SQL
+Staffing and Recruiting,Python
+Staffing and Recruiting, R
+Food and Beverage Services,Data Visualization
+Food and Beverage Services,Data Analysis
+Food and Beverage Services,Data Science
+Food and Beverage Services,Data Visualization
+Food and Beverage Services,Database
+Food and Beverage Services,Power BI
+Food and Beverage Services,Excel
+Food and Beverage Services,Analytical Thinking
+Consumer Services,Data Visualization
+Consumer Services,Data Analysis
+Consumer Services, Data Quality 
+Consumer Services,Data Science
+Consumer Services,Data Visualization
+Consumer Services,Database
+Consumer Services, Key Performance Indicators 
+Consumer Services,Analytical Thinking
+Consumer Services,SQL
+Consumer Services,Statistics
+Consumer Services,Tableau
+Consumer Services, Salesforce
+Software Development,Data Analysis
+Software Development,Data Analysis
+Software Development,Data Analysis
+Software Development,Data Science
+Software Development,Data Visualization
+Software Development,SQL
+Software Development, Datasets 
+Software Development,SQL
+Software Development,Excel
+Software Development, Metabase 
+Software Development,Data Analysis
+"Technology, Information and Internet",Data Analysis
+"Technology, Information and Internet", Data Cleaning 
+"Technology, Information and Internet",Data Science
+"Technology, Information and Internet",Database
+"Technology, Information and Internet",Database
+"Technology, Information and Internet", Business Requirements 
+"Technology, Information and Internet", Computer Science 
+"Technology, Information and Internet", Metadata 
+"Technology, Information and Internet", Metadata Standards 
+"Technology, Information and Internet", Reporting Requirements 
+"Technology, Information and Internet",SQL
+"Technology, Information and Internet",Database
+"Technology, Information and Internet",Communication
+Financial Services,Communication
+Financial Services,Data Analysis
+Financial Services,Data Analysis
+Financial Services, Key Performance Indicators 
+Financial Services, Mathematics 
+Financial Services,SQL
+Financial Services, Computer Science 
+Financial Services,Analytical Thinking
+Financial Services, Debugging 
+Financial Services, Scripting 
+Financial Services,SQL
+Financial Services, Oracle 
+Financial Services,Python
+Financial Services, R 
+Financial Services,Power BI
+Staffing and Recruiting,Data Analysis
+Staffing and Recruiting,Data Analysis
+Staffing and Recruiting,Data Science
+Staffing and Recruiting,Database
+Staffing and Recruiting,SQL
+Staffing and Recruiting,Python
+Staffing and Recruiting,Excel
+Staffing and Recruiting,Power BI
+Staffing and Recruiting,Statistics
+Tobacco Manufacturing,Analytical Thinking
+Tobacco Manufacturing,Communication
+Tobacco Manufacturing,Database
+Tobacco Manufacturing,Excel
+Tobacco Manufacturing,Analytical Thinking
+Tobacco Manufacturing, Sap Businessobjects 
+Tobacco Manufacturing,Ad hoc analysis
+Tobacco Manufacturing,Power BI
+Tobacco Manufacturing, Salesforce 
+Tobacco Manufacturing,Excel
+Tobacco Manufacturing,Analytical Thinking
+Entertainment Providers,Analytical Thinking
+Entertainment Providers,Data Analysis
+Entertainment Providers,Data Analysis
+Entertainment Providers,Data Visualization
+Entertainment Providers,Database
+Entertainment Providers,SQL
+Entertainment Providers,Statistics
+Entertainment Providers,Tableau
+Entertainment Providers,Power BI
+Financial Services,Communication
+Financial Services,Data Analysis
+Financial Services,Data Analysis
+Financial Services, Key Performance Indicators 
+Financial Services, Mathematics 
+Financial Services,SQL
+Financial Services, Computer Science 
+Financial Services,Analytical Thinking
+Financial Services,Python
+Financial Services,SQL
+Financial Services,Statistics
+Financial Services, R
+Software Development,Data Analysis
+Software Development,Data Visualization
+Software Development,Data Analysis
+Software Development,Data modeling
+Software Development,Data Science
+Software Development,Data Visualization
+Software Development,Tableau
+Software Development, Looker 
+Software Development, Snowflake 
+Software Development,Excel
+Software Development,Statistics
+Financial Services,Communication
+Financial Services, Data Cleaning 
+Financial Services, Data Integrity 
+Financial Services,Database
+Financial Services,Analytical Thinking
+Financial Services,SQL
+Financial Services,Excel
+Financial Services,Analytical Thinking
+Financial Services,Analytical Thinking
+Financial Services,Communication
+Financial Services,Data Analysis
+Financial Services,Data modeling
+Financial Services,Data Science
+Financial Services,Data Visualization
+Financial Services,Data Visualization
+Financial Services,SQL
+Financial Services,ETL
+Financial Services,SAS
+Software Development,Analytical Thinking
+Software Development,Communication
+Software Development,Data Analysis
+Software Development,ETL
+Software Development,SQL
+Software Development,Python
+Software Development, Airflow 
+Software Development,Data modeling
+Software Development,Tableau
