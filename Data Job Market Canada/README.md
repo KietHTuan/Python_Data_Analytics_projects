@@ -24,6 +24,16 @@ The dataset was collected via web scraping from LinkedIn using the **Magical AI-
 - **Normalizing salary ranges** to extract meaningful insights.
 - Standardizing **job titles** and parsing job descriptions to identify required skills.
 - Cleaning and consolidating inconsistent formats across columns.
+
+From this
+
+![image](https://github.com/user-attachments/assets/2b8d548e-ed67-4efb-9e31-2b74b27535b6) 
+
+To this 
+
+![image](https://github.com/user-attachments/assets/5fa4895f-d736-4b84-a073-063bbe55408b)
+
+
   
 ## Deliverables
 1. **Python Jupyter Notebook**: Data cleaning, transformation, and exploratory analysis.
