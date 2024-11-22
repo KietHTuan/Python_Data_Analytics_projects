@@ -33,5 +33,6 @@ This project aims to analyze tipping patterns at a restaurant to gain insights i
 View the insights and visualizations on the [Tableau Dashboard](https://public.tableau.com/views/Restauranttipsanalysis/Descriptive_data).
 ![image](https://github.com/user-attachments/assets/87ceee0b-dd86-4b07-b965-8e579d890d71)
 
-
+## Results 
+My employer were very amazed by the insights and she took notice of the tips pattern to allocate best servers during highest tip time.
 
